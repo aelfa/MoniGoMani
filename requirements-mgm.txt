@@ -12,7 +12,7 @@ art==5.8
 cached-property==1.5.2
 certifi==2022.9.24 ; python_version >= '3.6'
 cffi==1.15.1
-charset-normalizer==2.1.1 ; python_full_version >= '3.6.0'
+charset-normalizer==3.0.1 ; python_full_version >= '3.6.0'
 coloredlogs==15.0.1
 contourpy==1.0.6 ; python_version >= '3.7'
 cryptography==38.0.4
